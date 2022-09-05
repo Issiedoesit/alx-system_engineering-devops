@@ -1,0 +1,11 @@
+While working on UI/UX we have to take care of every web element that appears on the webpage to make the user experience easier. While designing such pages we often need to hide or show some particular HTML elements on any event or on any particular interval. In this article, we could do that easily with some line of javascript code, but for this article, we will see how many ways are there to hide an HTML element using CSS only.
+There are the following CSS properties use to hide an element.
+Absolute position
+Color
+Clip-path
+Display
+filter
+Measurements
+Opacity
+Transform
+Visibility

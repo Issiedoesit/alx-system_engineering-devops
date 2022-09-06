@@ -7,3 +7,7 @@ File 2-path - add /action to the PATH. /action should be the last directory the 
 File 3-paths - a script that counts the number of directories in the PATH
 
 File 4-global_variables - a script that lists environment variables
+
+File 5-local_variables - a script that lists all local variables and environment variables, and functions
+
+

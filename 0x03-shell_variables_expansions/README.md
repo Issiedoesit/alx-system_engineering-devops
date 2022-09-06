@@ -13,3 +13,8 @@ File 5-local_variables - a script that lists all local variables and environment
 File 6-create_local_variable - a script that creates a new local variable
 - Name: BEST
 - Value: School
+
+File 7-create_global_variable - a script that creates a new local variable
+- Name: BEST
+- Value: School
+
